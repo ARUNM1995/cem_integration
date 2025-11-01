@@ -8,6 +8,16 @@ public class HomeController {
 	@RequestMapping("/hi")
     public String m1() {
 		System.out.println("Hello world, m1 handler is invoked");
+
+		
+
+
+
+   // i made some Changes
+
+
+
+
     	return "index.jsp" ;
     }
 }
